@@ -1,5 +1,5 @@
 <template>
-  <h1>Foobar</h1>
+  <h2>Foobar</h2>
   <Tutorial/>
 </template>
 
